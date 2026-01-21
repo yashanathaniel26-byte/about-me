@@ -8,7 +8,7 @@ public:
   "university": "Telkom University",
   "focus": ["Machine Learning", "DeepLearning", "Data Mining"],
   "skills": {
-    "programming": ["Python", "C++", "Golang", "SQL"],
+    "programming": ["Python", "C++", "Golang", "SQL", Js and the framework ],
     "data": ["EDA", "Preprocessing", "Modeling"],
     "system": ["Networking", "Mikrotik"]
     }
